@@ -1,0 +1,6 @@
+/* app.css */
+body {
+  background-image: url("/public/bg.svg"); /* public/bg.jpg */
+  background-size: cover;
+  background-repeat: no-repeat;
+}
